@@ -15,7 +15,7 @@ Apasionado por la arquitectura de software, la eficiencia del código y la integ
 - Laravel | VueJs | Express | React
 
 🗄️ **Bases de datos:**
-- PostgreSQL | MySQL | MongoDB | Redis
+- PostgreSQL | MySQL | MongoDB | Redis | DynamoDB
 
 ☁️ **Infraestructura & Cloud:**
 - AWS | Azure DevOps
